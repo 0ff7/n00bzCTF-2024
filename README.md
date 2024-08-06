@@ -24,7 +24,3 @@
 
 - ### Web (1/3)
     - [Passwordless](https://github.com/glouis75/n00bzCTF-2024/blob/main/Web/Passwordless.md)
-
-Team result : 
-
-![Score](/images/Teamscore.JPG)
