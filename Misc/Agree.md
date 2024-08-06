@@ -8,7 +8,7 @@
 
 ### Solving the challenge
 
-Not knowing what to do I've just manually tried a bunch of web directories like : /terms, /privacy, /tos.
+Not knowing what to do I've just manually tried a bunch of web directories like : /terms, /privacy, /policy, /tos.
 
 That's a lucky one ! Here is the first part of the flag on /tos : 
 
