@@ -14,15 +14,15 @@
 
 That's obviously some brainfuck code. There is a lot of loops inside the code so I tried to isolate all of those loops so I can get a better view of the overall code : 
 
-![Cleaning](/images/Brain1.png)
+![Clean](/images/Brain1.JPG)
 
 After this cleaning and some research I've figured out what was `[-]` used for. So I've replaced all `[-]` with `.>` which can be used to ouput the char :
 
-![Cleaning](/images/Brain2.png)
+![Replace](/images/Brain2.JPG)
 
 Then using an online interpreter :
 
-![Decode](/images/Brain3.png)
+![Decode](/images/Brain3.JPG)
 
 ### Flag
 
