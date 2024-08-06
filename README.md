@@ -27,4 +27,4 @@
 
 Team result : 
 
-[Score](/images/Teamscore.JPG)
+![Score](/images/Teamscore.JPG)
