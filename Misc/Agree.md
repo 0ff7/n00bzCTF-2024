@@ -10,7 +10,7 @@
 
 Not knowing what to do I've just manually tried a bunch of web directories like : /terms, /privacy, /tos.
 
-That's a lucky one ! Here is the fist part of the flag on /tos : 
+That's a lucky one ! Here is the first part of the flag on /tos : 
 
 ![tos](/images/Agree1.JPG)
 
