@@ -1,5 +1,5 @@
 # n00bzCTF-2024
-## 0x417a61656c's writeups for [n00bzCTF 2024](https://ctf.n00bzunit3d.xyz/)
+## 0xff7's writeups for [n00bzCTF 2024](https://ctf.n00bzunit3d.xyz/)
 
 **August 2-4, 2024**
 [CTFTIME](https://ctftime.org/event/2378)
